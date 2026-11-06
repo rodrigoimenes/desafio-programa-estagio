@@ -8,7 +8,7 @@ Repositório base do desafio prático. Cada participante cria a sua cópia, priv
 
 1. Nesta página do GitHub, clique em **Use this template** e depois em **Create a new repository**.
 2. Dê um nome ao repositório, marque **Private** e crie.
-3. Em **Settings → Collaborators**, adicione os usuários da banca que estão no e-mail.
+3. Em **Settings → Collaborators**, convide o usuário `rodrigoimenes`.
 4. Clone o repositório. Os dados do seu desafio já estão em `dados/`.
 
 ## Regras
@@ -17,7 +17,7 @@ Repositório base do desafio prático. Cada participante cria a sua cópia, priv
 - Faça commits pequenos, cada um com uma ideia só, ao longo da semana, inclusive do que deu errado.
 - Não apague nem reescreva o histórico: nada de squash, de `--amend` em commit já enviado ou de `push --force`.
   Queremos ver as suas escolhas e a evolução do projeto.
-- O último commit vale até o prazo do e-mail.
+- **Prazo:** só serão aceitos commits feitos até 13/11/2026, antes das 18h (horário de Brasília).
 
 ## IA e prompts
 
