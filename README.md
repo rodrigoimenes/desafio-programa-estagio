@@ -2,6 +2,8 @@
 
 Repositório base do desafio prático. Cada participante cria a sua cópia, privada, a partir dele.
 
+**Comece pelo [BRIEFING.md](BRIEFING.md):** o contexto da FullStore, os quatro desafios e como funciona a seleção.
+
 ## Como começar
 
 1. Nesta página do GitHub, clique em **Use this template** e depois em **Create a new repository**.
@@ -33,6 +35,7 @@ Não cole senhas nem chaves nos prompts: esses arquivos vão para o GitHub.
 
 | Pasta ou arquivo | O que vai nela |
 | --- | --- |
+| `BRIEFING.md` | Os desafios e as regras da seleção |
 | `apresentacao/` | Os slides, de preferência em PDF, e o link do vídeo da demo |
 | `dados/` | Os dados dos quatro desafios, uma pasta para cada |
 | `prompts/` | O histórico dos prompts |
