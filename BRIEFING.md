@@ -6,7 +6,7 @@ Quatro problemas reais do varejo para resolver em uma semana e apresentar em 5 m
 
 ## Os 4 desafios
 
-Cada participante escolhe (ou recebe) um desafio. Todos se passam na Rede Aurora, uma rede fictícia de lojas descrita na próxima seção. Os dados de cada desafio estão em [`dados/`](dados/), uma pasta por desafio.
+Cada participante escolhe um desafio da lista. Todos se passam na Rede Aurora, uma rede fictícia de lojas descrita na próxima seção. Os dados de cada desafio estão em [`dados/`](dados/), uma pasta por desafio.
 
 | # | Desafio | A pergunta |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ Todos os desafios se passam na **Rede Aurora**, uma rede fictícia de moda femin
 
 ## Como funciona a seleção?
 
-Vocês têm uma semana, do kickoff à apresentação. No dia, cada participante tem 5 minutos para apresentar e mostrar a demo, seguidos de perguntas da banca.
+Vocês têm uma semana, do kickoff à apresentação. No dia, cada participante tem 5 minutos para apresentar e mostrar a demo, seguidos de perguntas da banca. Só serão aceitos commits feitos até 13/11/2026, antes das 18h (horário de Brasília).
 
 **Regras**
 
