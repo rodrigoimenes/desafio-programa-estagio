@@ -7,7 +7,7 @@ Repositório base do desafio prático. Cada participante cria a sua cópia, priv
 1. Nesta página do GitHub, clique em **Use this template** e depois em **Create a new repository**.
 2. Dê um nome ao repositório, marque **Private** e crie.
 3. Em **Settings → Collaborators**, adicione os usuários da banca que estão no e-mail.
-4. Clone o repositório e coloque em `dados/` os arquivos do kit do seu desafio.
+4. Clone o repositório. Os dados do seu desafio já estão em `dados/`.
 
 ## Regras
 
@@ -34,7 +34,7 @@ Não cole senhas nem chaves nos prompts: esses arquivos vão para o GitHub.
 | Pasta ou arquivo | O que vai nela |
 | --- | --- |
 | `apresentacao/` | Os slides, de preferência em PDF, e o link do vídeo da demo |
-| `dados/` | Os arquivos do kit do desafio |
+| `dados/` | Os dados dos quatro desafios, uma pasta para cada |
 | `prompts/` | O histórico dos prompts |
 | `DIARIO.md` | O seu diário: decisões, erros e aprendizados de cada dia |
 
